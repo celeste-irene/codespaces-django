@@ -24,4 +24,6 @@ python manage.py collectstatic
 ```python
 python manage.py runserver
 ```
-test
+
+# Contributors (Please type names below)
+* Celeste B
