@@ -19,6 +19,12 @@ pip install -r requirements.txt
 python manage.py collectstatic
 ```
 
+## Copy .env
+
+```python
+cp .env.example .env
+```
+
 ## To run this application:
 
 ```python
