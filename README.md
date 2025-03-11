@@ -1,12 +1,5 @@
 # GitHub Codespaces ♥️ Django
-this is the official URL that we're going to use for GWC 2025 challenge!
-
-Celeste wrote this
-XXXXXYYYYZZZ
-
-
-1234454
-
+This repository is a test for me to play around with Django...
 ## installing dependancies
 
 ```python
